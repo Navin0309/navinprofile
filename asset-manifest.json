@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/navinprofile/static/css/main.c17c30ab.css",
+    "main.js": "/navinprofile/static/js/main.720c5592.js",
+    "static/js/787.1ed0c42c.chunk.js": "/navinprofile/static/js/787.1ed0c42c.chunk.js",
+    "static/media/resume.pdf": "/navinprofile/static/media/resume.ba0ad2802623b4e1d5a3.pdf",
+    "static/media/home-main.svg": "/navinprofile/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/navinprofile/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/navinprofile/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/navinprofile/static/media/logo.1d6eec58324595de4e76.png",
+    "static/media/avatar.svg": "/navinprofile/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/navinprofile/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/navinprofile/index.html",
+    "main.c17c30ab.css.map": "/navinprofile/static/css/main.c17c30ab.css.map",
+    "main.720c5592.js.map": "/navinprofile/static/js/main.720c5592.js.map",
+    "787.1ed0c42c.chunk.js.map": "/navinprofile/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17c30ab.css",
+    "static/js/main.720c5592.js"
+  ]
+}
